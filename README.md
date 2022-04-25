@@ -1,0 +1,1 @@
+# Rock-Paper-Scissors This is a simple code that allows you to play rock, paper, scissors with the computer. If you win, it will tell you that you won. If you lost, it will tell you that you lost. It will also ask you if you want to play again.
